@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Promama de Estudios de la Especiallidad de Programacion CBTis 16</name>
+    <name>Festividad del dia de muertos en Mexico</name>
 
     <description>
         Aplicacion 01 Muestra progama de estudios de la especialidad de programacion
@@ -16,7 +16,7 @@
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-       Martin Cruz Bermudez
+       Jerrick Odell Cuahutle Velazquez
     </author>
 	
 
